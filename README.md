@@ -1,4 +1,4 @@
-# loputoo-mang-phaser
+
 
 Small endless running game with node, javascript, phaser 3, webpack
 
